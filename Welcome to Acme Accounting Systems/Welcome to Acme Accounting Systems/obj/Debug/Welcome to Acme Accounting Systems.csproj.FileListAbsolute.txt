@@ -1,0 +1,7 @@
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Welcome to Acme Accounting Systems\Welcome to Acme Accounting Systems\obj\Debug\Welcome to Acme Accounting Systems.csproj.AssemblyReference.cache
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Welcome to Acme Accounting Systems\Welcome to Acme Accounting Systems\obj\Debug\Welcome to Acme Accounting Systems.csproj.CoreCompileInputs.cache
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Welcome to Acme Accounting Systems\Welcome to Acme Accounting Systems\bin\Debug\Welcome to Acme Accounting Systems.exe.config
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Welcome to Acme Accounting Systems\Welcome to Acme Accounting Systems\bin\Debug\Welcome to Acme Accounting Systems.exe
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Welcome to Acme Accounting Systems\Welcome to Acme Accounting Systems\bin\Debug\Welcome to Acme Accounting Systems.pdb
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Welcome to Acme Accounting Systems\Welcome to Acme Accounting Systems\obj\Debug\Welcome to Acme Accounting Systems.exe
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Welcome to Acme Accounting Systems\Welcome to Acme Accounting Systems\obj\Debug\Welcome to Acme Accounting Systems.pdb
