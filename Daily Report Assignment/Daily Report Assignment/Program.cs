@@ -12,6 +12,8 @@ namespace Daily_Report_Assignment
         {
             Console.WriteLine("Academy of Learning Career College");
             Console.WriteLine("Student Daily Report");
+            Console.ReadLine();
+            
             Console.WriteLine("What course are you in?");
             string yourCourse = Console.ReadLine();
             Console.WriteLine("Your course is:" + yourCourse);
@@ -42,6 +44,10 @@ namespace Daily_Report_Assignment
             Console.WriteLine("Your study hour today is:" + yourStudyHours);
             Console.ReadLine();
 
+            Console.WriteLine("Thank you for your answers");
+            Console.ReadLine();
+            Console.WriteLine("Have a great day");
+            Console.ReadLine();
 
         }
     }
