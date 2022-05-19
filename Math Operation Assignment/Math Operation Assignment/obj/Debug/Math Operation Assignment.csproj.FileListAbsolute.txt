@@ -1,0 +1,7 @@
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\bin\Debug\Math Operation Assignment.exe.config
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\bin\Debug\Math Operation Assignment.exe
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\bin\Debug\Math Operation Assignment.pdb
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\Math Operation Assignment.csproj.AssemblyReference.cache
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\Math Operation Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\Math Operation Assignment.exe
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\Math Operation Assignment.pdb
