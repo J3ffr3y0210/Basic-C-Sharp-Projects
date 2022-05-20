@@ -11,7 +11,7 @@ namespace Math_Operation_Assignment
         static void Main(string[] args)
         {
             int product = 50 * 50;
-            Console.WriteLine(product);
+            Console.WriteLine("Fifty times Fifty=" + product.ToString());
             Console.ReadLine();
             
             int total = 5 + 25;
@@ -19,15 +19,15 @@ namespace Math_Operation_Assignment
             Console.ReadLine();
 
             double qoutient = 125.0 / 12.5;
-            Console.WriteLine(qoutient);
+            Console.WriteLine("One hundred twenty five divide by twelve point five=" + qoutient.ToString());
             Console.ReadLine();
 
             bool trueOrFalse = 60 > 50;
-            Console.Write(trueOrFalse.ToString());
+            Console.Write("Is Sixty greater than Fifty:" + trueOrFalse.ToString());
             Console.ReadLine();
 
             int remainder = 50 % 7;
-            Console.Write(remainder);
+            Console.Write("The raminder of Fifty divide by 7 is:" + remainder.ToString());
             Console.ReadLine();
 
         }
