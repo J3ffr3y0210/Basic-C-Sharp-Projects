@@ -1,0 +1,7 @@
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.csproj.AssemblyReference.cache
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.exe.config
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.exe
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Loop Assignment\Loop Assignment\bin\Debug\Loop Assignment.pdb
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.exe
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Loop Assignment\Loop Assignment\obj\Debug\Loop Assignment.pdb
