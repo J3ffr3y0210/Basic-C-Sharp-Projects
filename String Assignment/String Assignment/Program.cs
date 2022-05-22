@@ -21,7 +21,7 @@ namespace String_Assignment
             Console.ReadLine();
 
             StringBuilder sb = new StringBuilder();
-            sb.Append("My name is Jeff, I am student of Academt of Learning.");
+            sb.Append("My name is Jeff, I am student of Academy of Learning.");
             Console.WriteLine(sb);
             Console.ReadLine();
 

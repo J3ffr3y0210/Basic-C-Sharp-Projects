@@ -1,0 +1,7 @@
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Price-Quote Application Assignment\Price-Quote Application Assignment\bin\Debug\Price-Quote Application Assignment.exe.config
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Price-Quote Application Assignment\Price-Quote Application Assignment\bin\Debug\Price-Quote Application Assignment.exe
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Price-Quote Application Assignment\Price-Quote Application Assignment\bin\Debug\Price-Quote Application Assignment.pdb
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Price-Quote Application Assignment\Price-Quote Application Assignment\obj\Debug\Price-Quote Application Assignment.csproj.AssemblyReference.cache
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Price-Quote Application Assignment\Price-Quote Application Assignment\obj\Debug\Price-Quote Application Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Price-Quote Application Assignment\Price-Quote Application Assignment\obj\Debug\Price-Quote Application Assignment.exe
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Price-Quote Application Assignment\Price-Quote Application Assignment\obj\Debug\Price-Quote Application Assignment.pdb
