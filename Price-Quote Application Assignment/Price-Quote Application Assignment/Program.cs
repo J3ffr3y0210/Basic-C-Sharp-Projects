@@ -40,6 +40,10 @@ namespace Price_Quote_Application_Assignment
             Console.WriteLine(total);
             Console.ReadLine();
 
+            int  = packageWidth * packageHeight * packageLenght;
+
+            Console.WriteLine("product");
+            Console.ReadLine();
 
         }
         }

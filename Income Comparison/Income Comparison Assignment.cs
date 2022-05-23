@@ -17,12 +17,12 @@ namespace Income_Comparison_Assignment
             Console.ReadLine();
 
             Console.WriteLine("What is your Hourly rate?");
-            string yourHourlyRate = Console.ReadLine();
+            int yourHourlyRate = Console.ReadLine();
             Console.WriteLine("Your Hourly Rate is:" + yourHourlyRate);
             Console.ReadLine();
 
             Console.WriteLine("How many Hours worked per week?");
-            string yourHouraWorked = Console.ReadLine();
+            int yourHouraWorked = Console.ReadLine();
             Console.WriteLine("Your Hours worked per week is:" + yourHouraWorked);
             Console.ReadLine();
 
@@ -30,36 +30,32 @@ namespace Income_Comparison_Assignment
             Console.ReadLine();
 
             Console.WriteLine("What is your Hourly rate?");
-            string yourHourlyRate2 = Console.ReadLine();
+            int yourHourlyRate2 = Console.ReadLine();
             Console.WriteLine("Your Hourly Rate is:" + yourHourlyRate2);
             Console.ReadLine();
 
             Console.WriteLine("How many Hours worked per week?");
-            string yourHouraWorked2 = Console.ReadLine();
+            int yourHouraWorked2 = Console.ReadLine();
             Console.WriteLine("Your Hours worked per week is:" + yourHouraWorked2);
             Console.ReadLine();
 
             Console.WriteLine("Annual Salary of Person 1");
-            string annualSalaryPerson1 = Console.ReadLine();
+            int annualSalaryPerson1 = Console.ReadLine();
             Console.WriteLine("Anual salary of Person 1 is:" + annualSalaryPerson1);
             Console.ReadLine();
 
             Console.WriteLine("Annual Salary of Person 2");
-            string annualSalaryPerson2 = Console.ReadLine();
+            int annualSalaryPerson2 = Console.ReadLine();
             Console.WriteLine("Anual salary of Person 2 is:" + annualSalaryPerson2);
             Console.ReadLine();
 
-            int Person1 = 55000;
-            int Person2 = 50000;
+            int Person1 = yourHourlyRate * yourHouraWorked * 52;
+            int Person2 = yourHourlyRate2 * yourHouraWorked2 * 52;
             bool trueorFalse = Person1 > Person2;
-            Console.Write(trueorFalse.ToString());
+            trueorFalse= ("Does Person1 makes more money than Person2?");
+            Console.WriteLine(trueorFalse);
             Console.ReadLine();
-            
-            Console.WriteLine("Does Person1 makes more money than Person2?");
-            Console.ReadLine();
-            
-
-
+          
         }
     }
 }
