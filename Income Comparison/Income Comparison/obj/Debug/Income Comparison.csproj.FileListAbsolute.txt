@@ -1,0 +1,7 @@
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Income Comparison\Income Comparison\obj\Debug\Income Comparison.csproj.AssemblyReference.cache
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Income Comparison\Income Comparison\obj\Debug\Income Comparison.csproj.CoreCompileInputs.cache
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Income Comparison\Income Comparison\bin\Debug\Income Comparison.exe.config
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Income Comparison\Income Comparison\bin\Debug\Income Comparison.exe
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Income Comparison\Income Comparison\bin\Debug\Income Comparison.pdb
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Income Comparison\Income Comparison\obj\Debug\Income Comparison.exe
+C:\Users\jeffrey\Desktop\Basic_HTML_and_JavaScript_1\Basic-C-Sharp-Projects\Income Comparison\Income Comparison\obj\Debug\Income Comparison.pdb
