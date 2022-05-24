@@ -15,24 +15,25 @@ namespace Price_Quote_Application_Assignment
 
             Console.WriteLine("What is your package weight?");
             int packageWeight = Convert.ToInt32(Console.ReadLine());
-            string result = packageWeight >= 50 ? "Package too heavy to be shipped via Package Express. Have a good day." : " Package Accepted";
-                Console.WriteLine(result);
-                Console.ReadLine();
+            string result = packageWeight >= 50 ? "Package to heavy to be shipped via Pachage express. Have a good day." : "package accepted";
+            Console.WriteLine(result);
+            Console.ReadLine();
 
-                Console.WriteLine("What is your package width?");
-                string packageWidth = Console.ReadLine();
-                Console.WriteLine("Your package width is: " + packageWidth);
-                Console.ReadLine();
+            Console.WriteLine("What is your package width?");
+            int packageWidth = Console.ReadLine();
+            int packwidth = Convert.ToInt32(packageWidth);
+            Console.WriteLine("Your package width is: " + packageWidth);
+            Console.ReadLine();
 
-                Console.WriteLine("What is your package height?");
-                string packageHeight = Console.ReadLine();
-                Console.WriteLine("Your package weight is: " + packageHeight);
-                Console.ReadLine();
+            Console.WriteLine("What is your package height?");
+            int packageHeight = Console.ReadLine();
+            Console.WriteLine("Your package weight is: " + packageHeight);
+            Console.ReadLine();
 
-                Console.WriteLine("What is your package lenght?");
-                string packageLenght = Console.ReadLine();
-                Console.WriteLine("Your package weight is: " + packageLenght);
-                Console.ReadLine();
+            Console.WriteLine("What is your package lenght?");
+            int packageLenght = Console.ReadLine();
+            Console.WriteLine("Your package weight is: " + packageLenght);
+            Console.ReadLine();
 
             Console.WriteLine("What is total Dimension?");
             int totalDimension = Convert.ToInt32(Console.ReadLine());
@@ -40,11 +41,11 @@ namespace Price_Quote_Application_Assignment
             Console.WriteLine(total);
             Console.ReadLine();
 
-            int  = packageWidth * packageHeight * packageLenght;
+            int totalPrice = (packageWidth * packageHeight * packageLenght) % 100;
 
-            Console.WriteLine("product");
+            Console.WriteLine(totalPrice);
             Console.ReadLine();
 
         }
-        }
     }
+}
