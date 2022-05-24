@@ -20,18 +20,20 @@ namespace Price_Quote_Application_Assignment
             Console.ReadLine();
 
             Console.WriteLine("What is your package width?");
-            int packageWidth = Console.ReadLine();
+            string packageWidth = Console.ReadLine();
             int packwidth = Convert.ToInt32(packageWidth);
             Console.WriteLine("Your package width is: " + packageWidth);
             Console.ReadLine();
 
             Console.WriteLine("What is your package height?");
-            int packageHeight = Console.ReadLine();
+            string packageHeight = Console.ReadLine();
+            int packheight = Convert.ToInt32(packageHeight);
             Console.WriteLine("Your package weight is: " + packageHeight);
             Console.ReadLine();
 
             Console.WriteLine("What is your package lenght?");
-            int packageLenght = Console.ReadLine();
+            string packageLenght = Console.ReadLine();
+            int packlenght = Convert.ToInt32(packageLenght);
             Console.WriteLine("Your package weight is: " + packageLenght);
             Console.ReadLine();
 
@@ -41,9 +43,10 @@ namespace Price_Quote_Application_Assignment
             Console.WriteLine(total);
             Console.ReadLine();
 
-            int totalPrice = (packageWidth * packageHeight * packageLenght) % 100;
+            var totalPrice = (packwidth * packheight * packlenght);
+            var DollarValue = totalPrice % 100;
 
-            Console.WriteLine(totalPrice);
+            Console.WriteLine(DollarValue);
             Console.ReadLine();
 
         }

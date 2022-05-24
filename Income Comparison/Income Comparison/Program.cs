@@ -43,22 +43,23 @@ namespace Income_Comparison_Assignment
             Console.WriteLine("Your Hours worked per week is:" + yourHoursWorked2);
             Console.ReadLine();
 
+            var salaryPerson1 = yourRate * yourWorked;
+            int salary1 = salaryPerson1 * 52;
+            
             Console.WriteLine("Annual Salary of Person 1");
             string annualSalaryPerson1 = Console.ReadLine();
             int annualPerson1 = Convert.ToInt32(annualSalaryPerson1);
             Console.WriteLine("Anual salary of Person 1 is:" + annualSalaryPerson1);
             Console.ReadLine();
 
+            var salaryPerson2 = yourRate2 * yourWorked2;
+            int salary2 = salaryPerson2 * 52;
+            
             Console.WriteLine("Annual Salary of Person 2");
             string annualSalaryPerson2 = Console.ReadLine();
             int annualPerson2 = Convert.ToInt32(annualSalaryPerson2);
             Console.WriteLine("Anual salary of Person 2 is:" + annualSalaryPerson2);
             Console.ReadLine();
-
-            var salaryPerson1 = yourRate * yourWorked;
-            int salary1 = salaryPerson1 * 52; 
-            var salaryPerson2 = yourRate2 * yourWorked2;
-            int salary2 = salaryPerson2 * 52;
 
             bool trueorFalse = salary1 > salary2;
             Console.WriteLine(trueorFalse);
