@@ -14,8 +14,9 @@ namespace Price_Quote_Application_Assignment
             Console.ReadLine();
 
             Console.WriteLine("What is your package weight?");
-            int packageWeight = Convert.ToInt32(Console.ReadLine());
-            string result = packageWeight >= 50 ? "Package to heavy to be shipped via Pachage express. Have a good day." : "package accepted";
+            string packageWeight = Console.ReadLine();
+            int packweight = Convert.ToInt32(packageWeight);
+            string result = packweight >= 50 ? "Package to heavy to be shipped via Pachage express. Have a good day." : "package accepted";
             Console.WriteLine(result);
             Console.ReadLine();
 
@@ -37,14 +38,16 @@ namespace Price_Quote_Application_Assignment
             Console.WriteLine("Your package weight is: " + packageLenght);
             Console.ReadLine();
 
+            int totalDimention = (packwidth * packheight * packlenght);
+
             Console.WriteLine("What is total Dimension?");
-            int totalDimension = Convert.ToInt32(Console.ReadLine());
-            string total = totalDimension >= 50 ? "Package too big to be shipped via Package Express. Have a good day." : " Package Accepted";
-            Console.WriteLine(total);
+            string totalDimension = Console.ReadLine();
+            int totdimension = Convert.ToInt32(totalDimension);
+            string resultTotal = totdimension >= 50 ? "Package too big to be shipped via Package Express. Have a good day." : " Package Accepted";
+            Console.WriteLine(resultTotal);
             Console.ReadLine();
 
-            var totalPrice = (packwidth * packheight * packlenght);
-            var DollarValue = totalPrice % 100;
+            var DollarValue = totalDimension % 100;
 
             Console.WriteLine(DollarValue);
             Console.ReadLine();
